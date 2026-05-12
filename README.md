@@ -1,2 +1,2 @@
-# stm32
-stm32 fun
+# stm32fun
+stm32 beginners fun
